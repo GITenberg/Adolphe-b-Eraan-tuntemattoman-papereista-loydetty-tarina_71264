@@ -1,0 +1,45 @@
+_repo: Adolphe-b-Eraan-tuntemattoman-papereista-loydetty-tarina_71264
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Onerva, L.
+    aliases:
+    - Lehtinen, Hilja Onerva
+    - Lehtinen, Onerva
+    - Madetoja, Hilja Onerva
+    - Streng, Hilja Onerva
+    birthdate: 1882
+    deathdate: 1972
+    gutenberg_agent_id: '2741'
+    url: http://www.gutenberg.org/2009/agents/2741
+    wikipedia:
+    - https://en.wikipedia.org/wiki/L._Onerva
+    - https://fi.wikipedia.org/wiki/L._Onerva
+creator:
+  author:
+    agent_name: Constant, Benjamin
+    alias: Rebecque, Henri Benjamin Constant de
+    birthdate: 1767
+    deathdate: 1830
+    gutenberg_agent_id: '5256'
+    url: http://www.gutenberg.org/2009/agents/5256
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Benjamin_Constant
+    - https://fr.wikipedia.org/wiki/Benjamin_Constant
+description: ''
+gutenberg_issued: '2023-07-24'
+identifiers:
+  gutenberg: '71264'
+language: fi
+pgterms:marc905: 20230721091609constant
+pgterms:marc906: '1920'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aFinland :$bKust.Oy Kirja, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Adolphe : $b Erään tuntemattoman papereista löydetty tarina'
+url: http://www.gutenberg.org/ebooks/71264
