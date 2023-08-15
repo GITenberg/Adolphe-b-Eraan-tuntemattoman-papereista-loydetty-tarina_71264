@@ -15,6 +15,9 @@ contributor:
     wikipedia:
     - https://en.wikipedia.org/wiki/L._Onerva
     - https://fi.wikipedia.org/wiki/L._Onerva
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Constant, Benjamin
@@ -27,6 +30,8 @@ creator:
     - https://en.wikipedia.org/wiki/Benjamin_Constant
     - https://fr.wikipedia.org/wiki/Benjamin_Constant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71264#Adolphe-b-Eraan-tuntemattoman-papereista-loydetty-tarina
 gutenberg_issued: '2023-07-24'
 identifiers:
   gutenberg: '71264'
